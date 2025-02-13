@@ -20,12 +20,12 @@ pip install tkinter pillow
 ## Usage
 
 1. Run the `whiteBoard.py` script to launch the application.
-2. Use the toolbar at the top to select the drawing tool (pen or eraser), adjust the brush size, and choose the color.
+2. Use the toolbar at the bottom to select the drawing tool (pen or eraser), adjust the brush size, and choose the color.
 3. Click and drag the mouse on the canvas to draw or erase.
 4. Click the "Save" button to save the drawing as a PNG file.
 5. Click the "Clear" button to start a new drawing.
 
-## API
+## functions
 
 The `WhiteboardApp` class provides the following methods:
 
@@ -41,9 +41,7 @@ The `WhiteboardApp` class provides the following methods:
 
 If you find any issues or have suggestions for improvements, feel free to open a new issue or submit a pull request on the project's GitHub repository.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Testing
 
